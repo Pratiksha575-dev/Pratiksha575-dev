@@ -8,7 +8,6 @@ I love blending great UI/UX with meaningful logic — from AI-powered features t
 
 - 💼 Recent work: Built a smart task scheduling app with an NLP-powered chatbot using Dialogflow.
 - 🌱 Currently exploring:  - Flutter’s advanced state management, conversational AI architectures, and real-world machine learning applications
-- 💬 Ask me about: Flutter, Firebase, Flask, Dialogflow, NLP, Dropbox, Render
 - 👩‍💻 Check out my pinned projects below!
 - 📫 Reach me at: [pratiksha575@gmail.com](mailto:pratiksha575@gmail.com)
 - 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/pratiksha-zodge)
